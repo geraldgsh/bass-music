@@ -56,7 +56,7 @@ First, clone the `bass-music` repository into a new folder with your project nam
 Seperate words in the folder name using hyphens (example: `my-new-project`).
 
 ```
-$ git clone https://github.com/geraldgsh/bbass-music my-new-project
+$ git clone https://github.com/geraldgsh/bass-music my-new-project
 ```
 
 Then run the setup script:
