@@ -1,6 +1,12 @@
-# Pictogram
+# Bass-Music
 
-An photo story app running on Ruby On Rails. A RoR project from codecademy.
+An Bass Music app running on Ruby On Rails. A RoR project from codecademy. 
+
+Form & Function;
+
+1. An album contains a cover, title, and artist. This means an Album model needs to store this data.
+
+2. The second piece of data is needed to store is a track. A track contains a song's name and duration. This means a Track model is required to store this data.
 
 # Ruby Version
 
